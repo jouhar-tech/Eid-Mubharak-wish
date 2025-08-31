@@ -1,2 +1,2 @@
 # Eid-Mubharak-wish
-id Milad Mubarak card with a moon animation.
+Eid Milad Mubarak card with a moon animation.
